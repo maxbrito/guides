@@ -149,6 +149,8 @@ Here are some of the most popular and useful source code management tools which 
 
 [SPDX](https://spdx.org/tools) – The Software Package Data Exchange (SPDX) specification is a standard format used to describe the components, licenses and copyrights associated with software packages. The SPDX standard aids compliance with free and open source software licenses by standardizing the way license information is shared between developers and companies. The SPDX specification is developed by the SPDX workgroup, which is hosted by The Linux Foundation. The group offers open source [tools](https://spdx.org/tools) to help users of SPDX documents.
 
+[TripleCheck Xray](http://triplecheck.tech) – Commercial fee based tool for discovering software licenses, copyright references, icons and plagiarized code snippets. For assured privacy of the customer products, both the tool and database run offline.
+
 [WhiteSource](https://www.whitesourcesoftware.com/) – Provides licensing, security, code quality and reporting analysis for managing open source components in real-time by automatically and continuously scanning dozens of open source repositories.
 
 ### Bug and issue tracking
